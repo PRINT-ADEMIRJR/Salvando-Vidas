@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563437907838",
+    "firebase_url": "https://almap-de0d0.firebaseio.com",
+    "project_id": "almap-de0d0",
+    "storage_bucket": "almap-de0d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563437907838:android:44be78687df07393578d2f",
+        "android_client_info": {
+          "package_name": "com.example.almap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563437907838-nif46lu81jesd3un2aelrstnotjk6mmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.almap",
+            "certificate_hash": "d28e76334e8680c5b8ba5214c20ece30cd921669"
+          }
+        },
+        {
+          "client_id": "563437907838-4851g53310oq6kquo9n3tgpj97jbjap3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBY3TkkzSvTkhmT0J5L3LvGVAloWUlCeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563437907838-4851g53310oq6kquo9n3tgpj97jbjap3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

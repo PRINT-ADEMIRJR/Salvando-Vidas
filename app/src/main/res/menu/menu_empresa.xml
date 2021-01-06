@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuNovoProduto"
+        android:icon="@drawable/ic_adicionar_24dp"
+        android:title="@string/adicionar_postagem"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuConfiguracoes"
+        android:title="@string/configura_es"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuSair"
+        android:title="@string/sair"
+        app:showAsAction="never" />
+
+</menu>
